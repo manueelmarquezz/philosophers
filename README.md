@@ -60,3 +60,4 @@ timestamp_in_ms X died
 - [pthread_mutex_lock man page](https://linux.die.net/man/3/pthread_mutex_lock)
 - [gettimeofday man page](https://linux.die.net/man/2/gettimeofday)
 - [Philosophers Visualizer](https://nafuka11.github.io/philosophers-visualizer/)
+- [CodeVault - Threads playlist (YouTube)](https://www.youtube.com/playlist?list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2)
