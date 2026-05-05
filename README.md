@@ -6,7 +6,7 @@
 
 N philosophers sit at a round table with N forks between them. Each philosopher alternates between eating (requiring both adjacent forks), sleeping, and thinking. The simulation ends when a philosopher dies of starvation or — optionally — when all philosophers have eaten a minimum number of times.
 
-The goal is to implement a concurrent solution using **POSIX threads** and **mutexes** with no data races, no deadlocks, and accurate death detection.
+The goal is to implement a concurrent solution using **threads** and **mutexes** with no data races, no deadlocks, and accurate death detection.
 
 ## Instructions
 
